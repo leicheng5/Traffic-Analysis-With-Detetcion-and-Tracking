@@ -4,13 +4,18 @@
 
 Here is the visualization interface:
 
-![Interface](your_interface.png)
+<p align="center">
+  <img src="Interface.png" alt="Interface" width="800"/>
+</p>
 
 ## Demo
 
 Below is a sample traffic analysis result:
 
-![Demo](your_demo.gif)
+<p align="center">
+  <img src="DEMO.gif" alt="Demo" width="800"/>
+</p>
+
 
 ## Installation
 ### 1. Install PyTorch (CUDA 11.8) or your version
